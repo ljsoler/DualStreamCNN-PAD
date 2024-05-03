@@ -19,7 +19,6 @@ If you use any of the code provided in this repository or the models provided, p
 @inproceedings{GonzalezSoler-DualCNNforVoicePAD-IWBF-2022,
  Author = {L. J. Gonzalez-Soler and M. Gomez-Barrero and M. Kamble and M. Todisco and C. Busch},
  Booktitle = {Proc. Intl. Workshop on Biometrics and Forensics ({IWBF})},
- File = {:https\://dms.dasec.h-da.de/literature/GonzalezSoler-DualCNNforVoicePAD-IWBF-2022.pdf:URL},
  Groups = {ATHENE, RESPECT, CRISP},
  Keywords = {Voice Recognition, Presentation Attack Detection},
  Pages = {1--6},
